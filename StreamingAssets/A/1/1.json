@@ -2,10 +2,10 @@
     "artArea": "A",
     "artCollection": "1",
     "artNumber": "1",
-    "artist": "Artist xxxx",
+    "artist": "Artist name xxxxx",
     "artistIconUrl": "",
-    "artName": "Name xxxxx",
-    "artDescription": "Description xxxxxx",
-    "scaleOfImageInMeter": 1.5,
-    "scaleMode": 2
+    "artName": "Name XXXX",
+    "artDescription": "Description XXXXXXXX",
+    "scaleOfImageInMeter": 0.20000000298023225,
+    "scaleMode": 0
 }

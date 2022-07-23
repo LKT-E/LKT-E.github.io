@@ -6,6 +6,6 @@
     "artistIconUrl": "",
     "artName": "Name XXXX",
     "artDescription": "Description XXXXXXXX",
-    "scaleOfImageInMeter": 1.5,
-    "scaleMode": 2
+    "scaleOfImageInMeter": 1.0,
+    "scaleMode": 0
 }
